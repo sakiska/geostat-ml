@@ -1,0 +1,7 @@
+```txt
+numpy
+pandas
+scikit-learn
+xgboost
+pykrige
+matplotlib
