@@ -1,4 +1,4 @@
-# Code and data for Cu–Pb–Zn spatial modelling (OK vs ML)
+# Code and data for Cu–Pb–Zn spatial modeling (OK vs ML)
 This repository provides the analysis scripts and input dataset used to reproduce
 the model-comparison results.
 
