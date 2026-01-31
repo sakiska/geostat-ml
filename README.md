@@ -1,6 +1,3 @@
-# geostat-ml
-Scripts and data for Cu–Pb–Zn mapping with OK, RF, XGBoost
-
 # Code and data for Cu–Pb–Zn spatial modelling (OK vs ML)
 This repository provides the analysis scripts and input dataset used to reproduce
 the model-comparison results.
