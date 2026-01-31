@@ -26,7 +26,7 @@ for elem, vmodel in best_models.items():
         verbose=False, enable_plotting=False
     )
 
-    params = ok.variogram_model_parameters  # <-- tek doğru yer
+    params = ok.variogram_model_parameters 
 
     sill   = params[0]
     vrange = params[1]
